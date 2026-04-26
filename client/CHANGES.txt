@@ -1,3 +1,0 @@
-+added defines to build client for different platforms
-+uncommented some old lines of code(skills/trade/friends and other game mechanics)
-+added new packets to update client/server data
