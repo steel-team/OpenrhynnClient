@@ -3,7 +3,7 @@
 This is original openrhynn modifications from ~2013-2014 if i'm correct. Follow original compilation guide from Rhynn project.
 Code is quite ugly and contain some bugs but still it works fine as for abandoned game.
 Following license, this sources was available since project start, but now it's also available on `GitHub`.
-there are new available definitions however:
+There are new available definitions:
 
 ```java
 /* BUILD CONFIGURATIONS*/
