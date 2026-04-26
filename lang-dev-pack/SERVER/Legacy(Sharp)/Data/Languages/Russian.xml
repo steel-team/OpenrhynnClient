@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<!--
+		if u want to use illegal chars like & u should encode it as html
+		if u need's \r\n u should write this ~~
+	-->
+	<string id="1" value="Моб заспаунен успешно!"/>
+	<string id="2" value="Уровень обновлён!"/>
+	<string id="3" value="Игрок забанен!"/>
+	<string id="4" value="Команда введена неверно!"/>
+	<string id="5" value="Ошибка!"/>
+	<string id="6" value="Недостаточно денег!"/>
+	<string id="7" value=" продано за "/>
+	<string id="8" value="Вещь успешно куплена!"/>
+	<string id="9" value="PK не разрешено!"/>
+	<string id="10" value="Игрок не в сети!"/>
+	<string id="11" value="Нельзя разговаривать с мобом!"/>
+	<string id="12" value="Запрос в друзья уже отправлен!"/>
+	<string id="13" value="Этот игрок уже ваш друг!"/>
+	<string id="14" value="Ваш запрос в друзья принят!"/>
+	<string id="15" value="Ваш запрос в друзья отклонён!"/>
+	<string id="16" value="Этот игрок не ваш друг!"/>
+	<string id="17" value="Игрок "/>
+	<string id="18" value=" удалил вас из друзей!"/>
+	<string id="19" value="Друг удалён!"/>
+	<string id="20" value=" вошол в игру"/>
+	<string id="21" value="Нельзя выбросить эту вещь!"/>
+	<string id="22" value="Добалена вещь:золото"/>
+	<string id="23" value="Хп полное!"/>
+	<string id="24" value="NPC с таким ID не существует!"/>
+	<string id="25" value="Этот персонаж не торгует!"/>
+	<string id="26" value="Нельзя продать такое кол-во!"/>
+	<string id="27" value="Нельзя продать эту вещь!"/>
+	<string id="28" value="Вход в пещеру,но похоже он заблокирован!"/>
+	<string id="29" value="Максимальное кол-во персонажей!"/>
+	<string id="30" value="Имя персонажа уже используется!"/>
+	<string id="31" value="Имя персонажа не может содержать префикс GM"/>
+	<string id="32" value="У вас нету пустых слотов для персонажей!"/>
+	<string id="33" value="Имя персонажа содержит запрещенные символы!"/>
+	<string id="34" value="ID персонажа не найдено!"/>
+	<string id="35" value="E-mail установлен!"/>
+	<string id="36" value="E-mail уже установлен!"/>
+	<string id="37" value="Ваш аккаунт заблокирован,зайдите на openrhynn.net для подробностей!"/>
+	<string id="38" value="Успешно зашли!"/>
+	<string id="39" value="Аккаунт тестера необходим для входа на сервер!"/>
+	<string id="40" value="Технические работы!"/>
+	<string id="41" value="Попробуйте зайти ещё раз(кто-то играл с вашего аккаунта,он уже кикнут)"/>
+	<string id="42" value="Пароль введён неверно!"/>
+	<string id="43" value="Код введён неверно!"/>
+	<string id="44" value="Регистрация выключена администратором!"/>
+	<string id="45" value="Имя пользоветля содержит запрещённые символы!"/>
+	<string id="46" value="Пользователь с таким логином уже существует!"/>
+	<string id="47" value="Вы зарегистрированы!"/>
+	<string id="48" value="Новый запрос в друзья!"/>
+	<string id="49" value="Ошибка сервера!"/>
+	<string id="50" value=" вышел из сети"/>
+	<string id="51" value="Нельзя атаковать NPC!"/>
+	<string id="52" value="Добавлено "/>
+	<string id="53" value=" поинтов!"/>
+</Language>

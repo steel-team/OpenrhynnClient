@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<!--
+		if u want to use illegal chars like & u should encode it as html
+		if u need's \r\n u should write this ~~
+	-->
+	<string id="1" value="Successfully spawned mob!"/>
+	<string id="2" value="Level updated!"/>
+	<string id="3" value="Player banned!"/>
+	<string id="4" value="Command entered invalid!"/>
+	<string id="5" value="some error!"/>
+	<string id="6" value="You haven't enough money!"/>
+	<string id="7" value=" selled for "/>
+	<string id="8" value="Successfully buyed item!"/>
+	<string id="9" value="PK not allowed!"/>
+	<string id="10" value="Player offline!"/>
+	<string id="11" value="Can't talk to mob!"/>
+	<string id="12" value="Friend request already sent!"/>
+	<string id="13" value="this player already your friend!"/>
+	<string id="14" value="Your friend request accepted!"/>
+	<string id="15" value="Your friend request declined!"/>
+	<string id="16" value="This player not your friend!"/>
+	<string id="17" value="Player "/>
+	<string id="18" value=" delete you from friend list!"/>
+	<string id="19" value="Friend deleted!"/>
+	<string id="20" value="went online"/>
+	<string id="21" value="can't drop this item!"/>
+	<string id="22" value="Added item: gold"/>
+	<string id="23" value="already full vitality!"/>
+	<string id="24" value="There are no NPC with specified ID!"/>
+	<string id="25" value="This character don't trading!"/>
+	<string id="26" value="can't sell this amout of this item!"/>
+	<string id="27" value="can't sell this item!"/>
+	<string id="28" value="A cave entry - but it seems magically locked."/>
+	<string id="29" value="Max char count!"/>
+	<string id="30" value="Char name already using!"/>
+	<string id="31" value="Char name can't contain GM prefix"/>
+	<string id="32" value="You haven't empty slots for characters!"/>
+	<string id="33" value="Char name have invalid characters!"/>
+	<string id="34" value="Character id not found!"/>
+	<string id="35" value="E-mail installed!"/>
+	<string id="36" value="E-mail already installed!"/>
+	<string id="37" value="Your account was banned!go to openrhynn.net to get more info."/>
+	<string id="38" value="Successfuly logged in!"/>
+	<string id="39" value="Beta tester acc required!"/>
+	<string id="40" value="Technical works!"/>
+	<string id="41" value="Try to login again(some one played on your acc,he already kicked!)"/>
+	<string id="42" value="Password Invalid"/>
+	<string id="43" value="Code is invalid"/>
+	<string id="44" value="Registration disabled by administration!"/>
+	<string id="45" value="User name have invalid characters!"/>
+	<string id="46" value="User with same login already exists!"/>
+	<string id="47" value="You registered!"/>
+	<string id="48" value="New friend request!"/>
+	<string id="49" value="Server error!"/>
+	<string id="50" value=" went offline"/>
+	<string id="51" value="Can't attack npc!"/>
+	<string id="52" value="Added "/>
+	<string id="53" value=" attribute points!"/>
+</Language>
